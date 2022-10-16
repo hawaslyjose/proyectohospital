@@ -1,0 +1,6 @@
+from .userView import CrearUsuarioView,UsuarioView
+from .medicoView import crearpersonalsaludview, consultarpersonalsaludview
+from .pacienteView import CrearPacienteView,PacienteView
+from .signosView import CrearSignosVitalesView, SignosVitalesView
+from .Hist_clinicaview import CrearHistoriaClinicaView,HistoriaClinicaView
+from .familiarView import FamiliarView, CrearFamiliarView
